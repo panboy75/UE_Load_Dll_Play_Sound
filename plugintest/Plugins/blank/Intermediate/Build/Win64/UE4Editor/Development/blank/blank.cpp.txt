@@ -1,0 +1,2 @@
+E:\Test\plugintest\Plugins\blank\Intermediate\Build\Win64\UE4Editor\Development\blank\Definitions.blank.h
+E:\Test\plugintest\Plugins\blank\Source\blank\Public\blank.h

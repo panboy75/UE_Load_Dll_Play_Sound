@@ -1,0 +1,9 @@
+{
+	"SourceFiles": [
+		"E:\\Test\\plugintest\\Source\\plugintest\\plugintest.Build.cs",
+		"E:\\Test\\plugintest\\Plugins\\blank\\Source\\blank\\blank.Build.cs",
+		"E:\\Test\\plugintest\\Source\\plugintest.Target.cs",
+		"E:\\Test\\plugintest\\Source\\plugintestEditor.Target.cs"
+	],
+	"EngineVersion": "4.27.1"
+}
